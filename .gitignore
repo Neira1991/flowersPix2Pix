@@ -136,3 +136,4 @@ dmypy.json
 =======
 .pyre/
 >>>>>>> prepare img and functions to load them
+.DS_Store
